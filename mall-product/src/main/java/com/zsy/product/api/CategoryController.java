@@ -32,6 +32,7 @@ public class CategoryController {
         List<CategoryEntity> entities = categoryService.listWithTree();
         return R.ok().put("data", entities);
     }
+    // TODO 列表测试
 
     /**
      * 信息

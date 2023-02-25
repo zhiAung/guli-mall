@@ -36,9 +36,9 @@
 C:\Windows\System32\drivers\etc\hosts 文件
 ```text
 # guli mall #
-192.168.163.131		gulimall.com
-192.168.163.131		search.gulimall.com
-192.168.163.131		item.gulimall.com
-192.168.163.131		auth.gulimall.com
-192.168.163.131		cart.gulimall.com
+47.98.187.212		gulimall.com
+47.98.187.212		search.gulimall.com
+47.98.187.212		item.gulimall.com
+47.98.187.212		auth.gulimall.com
+47.98.187.212		cart.gulimall.com
 ```
